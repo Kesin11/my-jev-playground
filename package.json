@@ -1,0 +1,14 @@
+{
+  "name": "my-jev-playground",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "tutorial:choice": "node openrouter_tutorial/choice.ts",
+    "tutorial:noul": "node openrouter_tutorial/noul.ts",
+    "tutorial:score": "node openrouter_tutorial/score.ts",
+    "tutorial:all": "node openrouter_tutorial/all.ts",
+    "changelogs:fetch": "node github_changelogs/fetch.ts",
+    "changelogs:judge": "node github_changelogs/judge.ts",
+    "changelogs:report": "node github_changelogs/report.ts"
+  }
+}

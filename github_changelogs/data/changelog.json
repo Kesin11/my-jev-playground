@@ -1,0 +1,599 @@
+[
+  {
+    "title": "OpenTelemetry in the GitHub Copilot app",
+    "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+    "date": "2026-09-22",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "New features and improvements in Copilot for JetBrains",
+    "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+    "date": "2026-09-22",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Faster C++ code intelligence with whole codebase indexing",
+    "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+    "date": "2026-09-22",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+    "date": "2026-09-22",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+    "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+    "date": "2026-09-22",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Security improvements for SSH",
+    "url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
+    "date": "2026-09-22",
+    "type": "Retired",
+    "labels": [
+      "account-management",
+      "application-security"
+    ]
+  },
+  {
+    "title": "Deprecation notice: All-platform CodeQL bundle",
+    "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+    "date": "2026-09-22",
+    "type": "Retired",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "Refreshed repository pull requests page generally available",
+    "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+    "date": "2026-09-21",
+    "type": "Release",
+    "labels": [
+      "collaboration-tools"
+    ]
+  },
+  {
+    "title": "GitHub Enterprise adds credential inventory exports",
+    "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+    "date": "2026-09-21",
+    "type": "Release",
+    "labels": [
+      "application-security",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "Grok 4.7 is now available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+    "date": "2026-09-21",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Copilot code review: An improved review experience",
+    "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+    "date": "2026-09-18",
+    "type": "Improvement",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Manage the code coverage ruleset condition with the REST API",
+    "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+    "date": "2026-09-18",
+    "type": "Improvement",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "GitHub Copilot weekly releases — September 14",
+    "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+    "date": "2026-09-18",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+    "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+    "date": "2026-09-18",
+    "type": "Retired",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Stage-only npm tokens for safer automation",
+    "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+    "date": "2026-09-18",
+    "type": "Improvement",
+    "labels": [
+      "supply-chain-security"
+    ]
+  },
+  {
+    "title": "Copilot impact dashboard now shows feature engagement",
+    "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+    "date": "2026-09-17",
+    "type": "Improvement",
+    "labels": [
+      "account-management",
+      "copilot",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "Agentic CLI customizations now in the usage metrics API",
+    "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+    "date": "2026-09-17",
+    "type": "Improvement",
+    "labels": [
+      "account-management",
+      "copilot",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "Ubuntu 26 generally available and latest migration",
+    "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+    "date": "2026-09-17",
+    "type": "Improvement",
+    "labels": [
+      "actions"
+    ]
+  },
+  {
+    "title": "Workflow execution protections in GitHub Actions generally available",
+    "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+    "date": "2026-09-17",
+    "type": "Release",
+    "labels": [
+      "actions",
+      "supply-chain-security"
+    ]
+  },
+  {
+    "title": "Automate SSO authorization for classic PATs and SSH keys",
+    "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+    "date": "2026-09-16",
+    "type": "Release",
+    "labels": [
+      "account-management",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "SCIM user responses now include a profileUrl attribute",
+    "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+    "date": "2026-09-16",
+    "type": "Improvement",
+    "labels": [
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "Copilot budget increase requests are generally available",
+    "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+    "date": "2026-09-16",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+    "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+    "date": "2026-09-16",
+    "type": "Improvement",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "Enforce GitHub Advanced Security configurations",
+    "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+    "date": "2026-09-15",
+    "type": "Improvement",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "GitHub Copilot suggests custom properties definitions",
+    "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+    "date": "2026-09-15",
+    "type": "Release",
+    "labels": [
+      "copilot",
+      "platform-governance"
+    ]
+  },
+  {
+    "title": "SHA-1 in HTTPS on GitHub sunset",
+    "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+    "date": "2026-09-15",
+    "type": "Retired",
+    "labels": [
+      "ecosystem-and-accessibility"
+    ]
+  },
+  {
+    "title": "Configure cost and quality in Copilot auto model selection",
+    "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+    "date": "2026-09-14",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Profiles now show your highest achievement badge tier",
+    "url": "https://github.blog/changelog/2026-09-11-profiles-now-show-your-highest-achievement-badge-tier",
+    "date": "2026-09-11",
+    "type": "Improvement",
+    "labels": [
+      "community-engagement"
+    ]
+  },
+  {
+    "title": "Add VS Code Agents to Copilot usage metrics",
+    "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+    "date": "2026-09-11",
+    "type": "Improvement",
+    "labels": [
+      "account-management",
+      "copilot",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "Auto-resolution and analysis updates in Copilot code review",
+    "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+    "date": "2026-09-11",
+    "type": "Improvement",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "GitHub Copilot weekly releases — September 7",
+    "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+    "date": "2026-09-10",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Refreshed repository pull requests page in public preview",
+    "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+    "date": "2026-09-10",
+    "type": "Release",
+    "labels": [
+      "collaboration-tools"
+    ]
+  },
+  {
+    "title": "AI Scan for pull request APIs in public preview",
+    "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+    "date": "2026-09-10",
+    "type": "Improvement",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "Control GitHub Actions cache access with cache-mode",
+    "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+    "date": "2026-09-10",
+    "type": "Improvement",
+    "labels": [
+      "actions",
+      "application-security",
+      "supply-chain-security"
+    ]
+  },
+  {
+    "title": "MAI-Code-1-Flash deprecated",
+    "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+    "date": "2026-09-10",
+    "type": "Retired",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Xcode 27 runner image now runs on macOS 27",
+    "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+    "date": "2026-09-10",
+    "type": "Improvement",
+    "labels": [
+      "actions"
+    ]
+  },
+  {
+    "title": "npm extends recovery-code security holds to all accounts",
+    "url": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
+    "date": "2026-09-09",
+    "type": "Improvement",
+    "labels": [
+      "supply-chain-security"
+    ]
+  },
+  {
+    "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+    "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+    "date": "2026-09-09",
+    "type": "Improvement",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+    "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+    "date": "2026-09-09",
+    "type": "Improvement",
+    "labels": [
+      "client-apps",
+      "copilot",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "GitHub Advanced Security expands trial availability",
+    "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+    "date": "2026-09-09",
+    "type": "Improvement",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "Block pull requests with exposed secrets from merging",
+    "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+    "date": "2026-09-09",
+    "type": "Improvement",
+    "labels": [
+      "application-security",
+      "platform-governance"
+    ]
+  },
+  {
+    "title": "Remediate Code Quality findings with agentic autofix",
+    "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+    "date": "2026-09-09",
+    "type": "Release",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+    "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+    "date": "2026-09-08",
+    "type": "Release",
+    "labels": [
+      "copilot",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "GitHub Enterprise Server 3.22 is now generally available",
+    "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+    "date": "2026-09-08",
+    "type": "Release",
+    "labels": [
+      "collaboration-tools"
+    ]
+  },
+  {
+    "title": "New customer portal help.github.com",
+    "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+    "date": "2026-09-08",
+    "type": "Release",
+    "labels": [
+      "account-management"
+    ]
+  },
+  {
+    "title": "Automatic Dependabot access to GitHub-hosted registries",
+    "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+    "date": "2026-09-08",
+    "type": "Improvement",
+    "labels": [
+      "supply-chain-security"
+    ]
+  },
+  {
+    "title": "GitHub Copilot weekly releases — August 31",
+    "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+    "date": "2026-09-04",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "GPT-6 Astra is generally available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+    "date": "2026-09-04",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "New API endpoint provides privacy-safe star history data",
+    "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+    "date": "2026-09-04",
+    "type": "Release",
+    "labels": [
+      "collaboration-tools"
+    ]
+  },
+  {
+    "title": "Multiple trusted publishing configurations for npm",
+    "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+    "date": "2026-09-03",
+    "type": "Release",
+    "labels": [
+      "supply-chain-security"
+    ]
+  },
+  {
+    "title": "GitHub Actions: Early September 2026 updates",
+    "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
+    "date": "2026-09-03",
+    "type": "Improvement",
+    "labels": [
+      "actions"
+    ]
+  },
+  {
+    "title": "Upcoming deprecation of selected GitHub Copilot models",
+    "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+    "date": "2026-09-03",
+    "type": "Retired",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "GitHub CLI Linux package signing key expires September 5",
+    "url": "https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5",
+    "date": "2026-09-03",
+    "type": "Retired",
+    "labels": [
+      "client-apps"
+    ]
+  },
+  {
+    "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+    "date": "2026-09-03",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Reopening Copilot Business and Enterprise signups",
+    "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
+    "date": "2026-09-03",
+    "type": "Release",
+    "labels": [
+      "account-management",
+      "copilot"
+    ]
+  },
+  {
+    "title": "CodeQL 2.26.4 improves GitHub actions security detections",
+    "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+    "date": "2026-09-03",
+    "type": "Improvement",
+    "labels": [
+      "application-security"
+    ]
+  },
+  {
+    "title": "Enterprise-managed settings support any default model",
+    "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+    "date": "2026-09-02",
+    "type": "Improvement",
+    "labels": [
+      "client-apps",
+      "copilot",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "Content exclusions generally available in Copilot app and CLI",
+    "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+    "date": "2026-09-02",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
+    "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+    "date": "2026-09-01",
+    "type": "Release",
+    "labels": [
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "Set an expiration date for individual user budgets",
+    "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+    "date": "2026-09-01",
+    "type": "Improvement",
+    "labels": [
+      "copilot",
+      "enterprise-management-tools"
+    ]
+  },
+  {
+    "title": "Copilot code review can now approve pull requests",
+    "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+    "date": "2026-09-01",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "Block users from discussion comments in personal repositories",
+    "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+    "date": "2026-09-01",
+    "type": "Improvement",
+    "labels": [
+      "collaboration-tools"
+    ]
+  },
+  {
+    "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+    "date": "2026-09-01",
+    "type": "Release",
+    "labels": [
+      "copilot"
+    ]
+  },
+  {
+    "title": "GitHub CLI: Media in issues, pull requests, and comments",
+    "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+    "date": "2026-09-01",
+    "type": "Release",
+    "labels": [
+      "client-apps"
+    ]
+  }
+]
